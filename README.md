@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi there, I'm a software engineer focusing on full stack web development👋
 
 <!--
 **ivaberiashvili/ivaberiashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - [Single-page design portfolio](https://ivaberiashvili.github.io/single-page-design-portfolio)  | [code](https://github.com/ivaberiashvili/single-page-design-portfolio)
 - [Interactive pricing component](https://ivaberiashvili.github.io/interactive-pricing-component)  | [code](https://github.com/ivaberiashvili/interactive-pricing-component)
 - [FAQ accordion card](https://ivaberiashvili.github.io/faq-accordion-card)  | [code](https://github.com/ivaberiashvili/faq-accordion-card)
--   [Tip calculator app](https://ivaberiashvili.github.io/tip-calculator-app)  | [code](https://github.com/ivaberiashvili/tip-calculator-app)
+- [Tip calculator app](https://ivaberiashvili.github.io/tip-calculator-app)  | [code](https://github.com/ivaberiashvili/tip-calculator-app)
 - [Typemaster pre-launch landing page](https://ivaberiashvili.github.io/typemaster-pre-launch-landing-page) | [code](https://github.com/ivaberiashvili/typemaster-pre-launch-landing-page)
--   [Fylo landing page](https://ivaberiashvili.github.io/fylo-landing-page) | [code](https://github.com/ivaberiashvili/fylo-landing-page)
--  [Equalizer Landing Page](https://ivaberiashvili.github.io/equalizer-landing-page) | [code](https://github.com/ivaberiashvili//equalizer-landing-page)
+- [Fylo landing page](https://ivaberiashvili.github.io/fylo-landing-page) | [code](https://github.com/ivaberiashvili/fylo-landing-page)
+- [Equalizer Landing Page](https://ivaberiashvili.github.io/equalizer-landing-page) | [code](https://github.com/ivaberiashvili//equalizer-landing-page)
 - [Art gallery website](https://ivaberiashvili.github.io/art-gallery-website/) | [code](https://github.com/ivaberiashvili/art-gallery-website/)
 - [Skilled e-learning landing page](https://ivaberiashvili.github.io/skilled-elearning-landing-page/) | [code](https://github.com/ivaberiashvili/skilled-elearning-landing-page/)
 - [Four card feature section](https://ivaberiashvili.github.io/four-card-feature-section/)  | [code](https://github.com/ivaberiashvili/four-card-feature-section/)
